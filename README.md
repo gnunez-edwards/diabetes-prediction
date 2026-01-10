@@ -17,9 +17,11 @@ patient-level features such as:
 - **Access & socioeconomic:** AnyHealthcare, NoDocbcCost, Education, Income
 - **Self-reported health:** GenHlth, MentHlth, PhysHlth
 - **Demographics:** Sex, Age (category)
-<img src="figures/correlation_heatmap.png" width="500">
+<img src="figures/correlation_heatmap.png" width="400">
 
-Target variable: **Diabetes_binary** (0 = no diabetes, 1 = diabetes)
+Target variable: **Diabetes_binary** 
+
+<img src="figures/class_distribution.png" width="400">
 
 ---
 
